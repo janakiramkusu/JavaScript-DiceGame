@@ -6,7 +6,7 @@ A fun and simple dice game built using **HTML, CSS, and JavaScript**. Players ro
 🔗 [Play the Game](https://your-live-demo-link.com) 
 
 ## 📸 Screenshot
-![Dice Game Preview](images/dice-game-preview.png) 
+![Dice Game Preview](images/Screenshot 2025-02-02 135026.png) 
 
 ## 📜 How to Play
 1. Click the **Start** button.
