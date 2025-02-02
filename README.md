@@ -18,4 +18,4 @@ A fun and simple dice game built using **HTML, CSS, and JavaScript**. Players ro
 - CSS3
 - JavaScript (DOM Manipulation)
 
-## 📂 Project Structure
+
