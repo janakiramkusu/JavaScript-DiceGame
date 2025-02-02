@@ -3,7 +3,7 @@
 A fun and simple dice game built using **HTML, CSS, and JavaScript**. Players roll two dice, and the one with the higher number wins!
 
 ## 🚀 Live Demo
-🔗 [Play the Game](https://your-live-demo-link.com) 
+🔗 [Play the Game](https://janakiramkusu.github.io/JavaScript-DiceGame/) 
 
 ## 📸 Screenshot
 ![Dice Game Preview](images/Screenshot.png) 
